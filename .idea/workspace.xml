@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f292c148-08c3-475a-9b28-00ec1b1fb46a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1dSnskkPZxGvdW9ZhvwuGrCQ6NX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\franq\OneDrive\Escritorio\Java" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.martinezsoft.peoplelist" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f292c148-08c3-475a-9b28-00ec1b1fb46a" name="Default Changelist" comment="" />
+      <created>1592427570072</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592427570072</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="525" y="146" key="#com.intellij.ide.util.MemberChooser" timestamp="1592433901591">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="525" y="146" key="#com.intellij.ide.util.MemberChooser/0.0.1440.860@0.0.1440.860" timestamp="1592433901591" />
+    <state x="449" y="297" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1592429064992">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="449" y="297" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1440.860@0.0.1440.860" timestamp="1592429064992" />
+    <state x="250" y="85" key="Maven.ArtifactSearchDialog" timestamp="1592430090217">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="250" y="85" key="Maven.ArtifactSearchDialog/0.0.1440.860@0.0.1440.860" timestamp="1592430090217" />
+    <state x="200" y="4" key="SettingsEditor" timestamp="1592429360296">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="200" y="4" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1592429360296" />
+    <state x="491" y="259" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1592430059870">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="491" y="259" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1440.860@0.0.1440.860" timestamp="1592430059870" />
+  </component>
+</project>
